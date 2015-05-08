@@ -1,5 +1,7 @@
 # fandhiakhmad
-Fandhi Akhmad 5214100171 PSO E Sistem Informasi Institut Teknologi Sepluh Nopember
+Fandhi Akhmad 5214100171 PSO E Sistem Informasi Institut Teknologi Sepuluh Nopember
+
+
 
 public class Bata{
 	public static void main(String[] args) {
