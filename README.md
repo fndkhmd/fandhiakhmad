@@ -1,8 +1,5 @@
 # fandhiakhmad
 
-https://camo.githubusercontent.com/b42aff8546499084729de38f1327b1827cefb953/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f3538373833343033383239323834383634302f4e78635778314c6b2e6a7067
+https://github.com/fndkhmd/fandhiakhmad.wiki.git
 
 Fandhi Akhmad
-5214100171
-Sistem Informasi 
-Institut Teknologi Sepuluh Nopember
